@@ -1,0 +1,1 @@
+Code for my Bachelor Thesis "Realization and Characterization of Multi-Layer Neural Networks Based on Reconfigurable alloptical activation unit".
